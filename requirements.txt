@@ -3,5 +3,4 @@ pandas
 numpy
 groq
 requests
-dotenv
 subprocess
